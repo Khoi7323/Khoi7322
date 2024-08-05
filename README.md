@@ -2,7 +2,7 @@
 - 👀 I’m interested in Discord.js, Data Structures and Algorithms
 - 🌱 I’m currently learning Discord.js v14 for Discord bot Developing
 - 💞️ I’m looking to collaborate on some dedicated contributors to make the bots better
-- 📫 How to reach me: Send a DM to my Discord: .leo.nice
+- 📫 How to reach me: Send a DM to my Discord: .nouriee
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I'm an Asian
 
